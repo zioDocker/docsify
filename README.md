@@ -1,6 +1,10 @@
 docsify
 ---
-[docsify](https://docsify.js.org/#/) docker basic structure to create fast and usable documentation.
+[Docsify](https://docsify.js.org/#/) docker basic structure to create fast and usable documentation.
+
+Docsify is a useful nodejs tool that transform [markdown](https://en.wikipedia.org/wiki/Markdown) files into html 
+automatically, giving you the opportunity to write easily markdown files that can be read in a website.
+
 
 ## How read/write documentation
 - spin up the container for the documentation with `docker-compose up --build -d`
