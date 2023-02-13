@@ -20,3 +20,4 @@ automatically, giving you the opportunity to write easily markdown files that ca
 - If you want to add a left navigation menu, add a file *_sidebar.md* to the folder 
 - If you want to add a navigation on top, just add an entry in the *nav* tag inside *src/index.html*
 - add this variable `{docsify-updated}` on top of your markdown page to display the last update of the file
+
